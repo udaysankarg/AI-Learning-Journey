@@ -25,7 +25,7 @@ extras-opencv/ # Computer vision & OpenCV experiments
 
 ## 📌 Progress Tracker
 - [x] Week 1 - AI Landscape & Tools
-- [ ] Week 2 - Python for AI
+- [x] Week 2 - Python for AI
 - [ ] Week 3 - ML Basics
 - [ ] Week 4 - Neural Networks
 - [ ] Week 5 - Embeddings
