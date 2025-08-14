@@ -9,19 +9,19 @@ This repository documents my step-by-step learning process in Artificial Intelli
 
 ## 🗂 Repository Structure
 AI-Learning-Journey/
-week1/ # AI Landscape, Tools setup
-week2/ # Python for AI
-week3/ # ML Basics
-week4/ # Neural Networks
-week5/ # Embeddings
-week6/ # Transformers
-week7/ # LLMs
-week8/ # Mini project
-week9/ # RAG
-week10/ # LangChain
-week11/ # Agentic AI
-week12/ # Capstone project
-extras-opencv/ # Computer vision & OpenCV experiments
+ - week1/ # AI Landscape, Tools setup
+ - week2/ # Python for AI
+ - week3/ # ML Basics
+ - week4/ # Neural Networks
+ - week5/ # Embeddings
+ - week6/ # Transformers
+ - week7/ # LLMs
+ - week8/ # Mini project
+ - week9/ # RAG
+ - week10/ # LangChain
+ - week11/ # Agentic AI
+ - week12/ # Capstone project
+ - extras-opencv/ # Computer vision & OpenCV experiments
 
 ## 📌 Progress Tracker
 - [x] Week 1 - AI Landscape & Tools
